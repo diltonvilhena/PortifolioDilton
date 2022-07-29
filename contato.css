@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(0, 0, 161);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px 100px;
+}
+
+
+.home { 
+    text-align: center; 
+}
+
+.home a {
+    color: white;
+    text-decoration: none;
+    margin: 20px  20px;
+}
+
+.home a:hover {
+    color: blue;
+}
+
+
+
+
+.botoes a{
+        
+    display: inline-block;
+    margin: 20px 40px;
+    text-decoration: none;
+    color: white;
+}
+
+.botoes img {
+    height: 120px;
+    width: 120px;
+}
+
+.botoes img:hover {
+    height: 125px;
+    width: 125px;
+}
+
+
+
+
+footer{
+    text-align: center;
+
+    
+}
+
+footer a{
+    background-color:rgba(0, 0, 0, 0.541);
+    border: solid 1px white;
+    border-bottom: 100px;
+    display: inline-block;
+    margin: 80px 0px;
+    padding: 10px 10px;
+    text-decoration: none;
+    color: white;
+}
+
+
+main div{
+    margin-top: 50px;
+}
